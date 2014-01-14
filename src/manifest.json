@@ -1,0 +1,19 @@
+{
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "jquery.cssemoticons.min.css" ],
+      "js": [ "jquery-1.8.3.min.js", "jquery.cssemoticons.min.js", "slack.com.js" ],
+      "matches": [ "https://*.slack.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "description": "~/.js ~ ported from https://github.com/defunkt/dotjs and https://github.com/JangoSteve/jQuery-CSSEmoticons",
+   "icons": {
+      "128": "icon128.png",
+      "48": "icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "slack.com.js",
+   "update_url": "https://raw.github.com/caseman72/slack.com.js/master/update_manifest.xml",
+   "permissions": [ "activeTab" ],
+   "version": "0.0.3"
+}
