@@ -15,5 +15,5 @@
    "name": "slack.com.js",
    "update_url": "https://raw.github.com/caseman72/slack.com.js/master/update_manifest.xml",
    "permissions": [ "activeTab" ],
-   "version": "0.0.3"
+   "version": "0.0.5"
 }
