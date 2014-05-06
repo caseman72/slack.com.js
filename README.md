@@ -4,7 +4,7 @@ slack.com.js
 ### Installation
 
 1. Save to CRX to computer
-  1. https://github.com/caseman72/stack.com.js/blob/master/extension/stack.com.js.crx
+  2. https://github.com/caseman72/slack.com.js/blob/master/extension/slack.com.js.crx?raw=true
   2. "Right Click" and select a variation of "Save As..."
   3. Save to "Desktop"
 
